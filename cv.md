@@ -5,4 +5,3 @@
 * **mail** - viktor.lisevich@gmail.com
 * **github** - https://github.com/viktolis
 
-## 
